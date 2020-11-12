@@ -1,0 +1,5 @@
+Pillow
+argparse
+tqdm
+multiprocessing
+fnmatch
