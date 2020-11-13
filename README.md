@@ -1,7 +1,14 @@
-# Mr.-Clean 
+# Mr. Clean 
 
 > A simple python program to scrub EXIF data from images
 
+## Installation
+
+```sh
+git clone https://github.com/ConceptCodes/Mr.-Clean
+cd mr_clean
+pip install -r reuirements.txt
+```
 
 ## Usage
 
