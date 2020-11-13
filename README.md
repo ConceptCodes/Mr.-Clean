@@ -16,6 +16,12 @@ pip install -r reuirements.txt
 python mr_clean.py --input_directory '<folder containing original imaages' --output_directory '<folder where you want clean images>'
 ```
 
+## Roadmap
+
+- Add multiprocessing module to speed things up
+- Make cmd line more interactive
+- Make global so that you can call from any directory
+
 ## License
 
 MIT © [ConceptCodes](https://conceptcodes.dev)
