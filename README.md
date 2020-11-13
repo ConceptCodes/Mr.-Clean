@@ -1,18 +1,12 @@
-# Mr.-Clean [![NPM version](https://badge.fury.io/js/Mr.-Clean.svg)](https://npmjs.org/package/Mr.-Clean) [![Build Status](https://travis-ci.org/ConceptCodes/Mr.-Clean.svg?branch=master)](https://travis-ci.org/ConceptCodes/Mr.-Clean)
+# Mr.-Clean 
 
 > A simple python program to scrub EXIF data from images
 
-## Installation
-
-```sh
-$ npm install --save Mr.-Clean
-```
 
 ## Usage
 
-```js
-var mrClean = require('Mr.-Clean');
-mrClean();
+```sh
+python mr_clean.py --input_directory '<folder containing original imaages' --output_directory '<folder where you want clean images>'
 ```
 
 ## License
