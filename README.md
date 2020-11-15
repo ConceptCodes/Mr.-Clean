@@ -7,7 +7,7 @@
 ```sh
 git clone https://github.com/ConceptCodes/Mr.-Clean mr_clean
 cd mr_clean
-pip install -r reuirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
